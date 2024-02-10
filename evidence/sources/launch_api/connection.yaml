@@ -2,7 +2,7 @@
 name: launch_api
 type: postgres
 options:
-  host: localhost
+  host: db
   port: 5432
   database: launch_api
   schema: upcoming_launches

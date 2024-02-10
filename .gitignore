@@ -1,0 +1,8 @@
+runs.db
+index.db
+schedules.db
+.env
+raccoon_dashboard.egg-info
+build
+venv
+*.pyc

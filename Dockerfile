@@ -1,5 +1,5 @@
 FROM node
-RUN apt update && apt install python3-full python3-pip python3.11-venv -y
+RUN apt update && apt install python3-pip python3.11-venv -y
 ENV PIP_BREAK_SYSTEM_PACKAGES 1
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
